@@ -2,7 +2,7 @@
 jongen hompage
 <html>
 <head>
-  <title>Hello</thtle>
+  <title>Hello to you</thtle>
 </head>  
 <body>
   <h3>Hello to you</h3>
