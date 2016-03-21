@@ -5,7 +5,7 @@ jongen hompage
   <title>Hello</thtle>
 </head>  
 <body>
-  <h3>Hello</h3>
+  <h3>Hello to you</h3>
   <p>
     this is website
   </P >
